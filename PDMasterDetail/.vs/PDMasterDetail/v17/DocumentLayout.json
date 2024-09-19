@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hannah\\Documents\\CIT 218 (2024)\\PDMasterDetail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\hannah\\documents\\cit 218 (2024)\\pdmasterdetail\\pdmasterdetail.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pdmasterdetail.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PDMasterDetail",
+              "DocumentMoniker": "C:\\Users\\Hannah\\Documents\\CIT 218 (2024)\\PDMasterDetail\\PDMasterDetail.csproj",
+              "RelativeDocumentMoniker": "PDMasterDetail.csproj",
+              "ToolTip": "C:\\Users\\Hannah\\Documents\\CIT 218 (2024)\\PDMasterDetail\\PDMasterDetail.csproj",
+              "RelativeToolTip": "PDMasterDetail.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T17:23:32.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
