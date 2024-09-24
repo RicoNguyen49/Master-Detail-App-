@@ -1,6 +1,5 @@
-﻿@page
+﻿@page "{searchString?}"
 @model PDMasterDetail.Pages.Cayce.IndexModel
-
 @{
     ViewData["Title"] = "Index";
 }
@@ -10,6 +9,17 @@
 <p>
     <a asp-page="Create">Create New</a>
 </p>
+
+<form style="justify-content: center; align-items: center;">
+    <p >
+        <select asp-for="RockType" asp-items="Model.Type">
+            <option value="">All</option>
+        </select>
+        Name: <input type="text" asp-for="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
 <table class="table">
     <thead>
         <tr>

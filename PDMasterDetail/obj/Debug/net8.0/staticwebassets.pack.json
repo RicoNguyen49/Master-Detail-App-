@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\PDMasterDetail.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\Cayce.css",
+      "PackagePath": "staticwebassets\\css\\Cayce.css"
+    },
+    {
       "Id": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
