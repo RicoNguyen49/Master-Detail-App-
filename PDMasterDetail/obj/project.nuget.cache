@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1bR12vH+iY0=",
+  "dgSpecHash": "VB4zbQNiQwA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hannah\\Documents\\CIT 218 (2024)\\MasterDetailAPP-Team\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
+  "projectFilePath": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hannah\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Hannah\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
