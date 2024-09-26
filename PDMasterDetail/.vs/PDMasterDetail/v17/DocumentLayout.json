@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\cayce\\desktop\\team_project\\master-detail-app-\\pdmasterdetail\\pages\\cayce\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\cayce\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\cayce\\desktop\\team_project\\master-detail-app-\\pdmasterdetail\\pages\\cayce\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\cayce\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\cayce\\desktop\\team_project\\master-detail-app-\\pdmasterdetail\\pages\\cayce\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\cayce\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,20 +11,32 @@
       "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\cayce\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\cayce\\desktop\\team_project\\master-detail-app-\\pdmasterdetail\\wwwroot\\css\\cayce.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:wwwroot\\css\\cayce.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\cayce\\desktop\\team_project\\master-detail-app-\\pdmasterdetail\\pages\\cayce\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\cayce\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\cayce\\desktop\\team_project\\master-detail-app-\\pdmasterdetail\\pages\\cayce\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\cayce\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\cayce\\desktop\\team_project\\master-detail-app-\\pdmasterdetail\\wwwroot\\css\\cayce.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:wwwroot\\css\\cayce.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\cayce\\desktop\\team_project\\master-detail-app-\\pdmasterdetail\\pages\\cayce\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\cayce\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\cayce\\desktop\\team_project\\master-detail-app-\\pdmasterdetail\\pages\\cayce\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\cayce\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\cayce\\desktop\\team_project\\master-detail-app-\\pdmasterdetail\\wwwroot\\css\\cayceindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:wwwroot\\css\\cayceindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\cayce\\desktop\\team_project\\master-detail-app-\\pdmasterdetail\\pages\\cayce\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\cayce\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\cayce\\desktop\\team_project\\master-detail-app-\\pdmasterdetail\\pages\\cayce\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\cayce\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\cayce\\desktop\\team_project\\master-detail-app-\\pdmasterdetail\\pages\\hannah\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,63 +58,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "CayceIndex.css",
+              "DocumentMoniker": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\CayceIndex.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\CayceIndex.css",
+              "ToolTip": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\CayceIndex.css",
+              "RelativeToolTip": "wwwroot\\css\\CayceIndex.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-24T20:12:53.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Cayce\\Edit.cshtml",
               "ToolTip": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Edit.cshtml",
               "RelativeToolTip": "Pages\\Cayce\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T18:45:54.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T18:45:54.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Cayce\\Details.cshtml",
               "ToolTip": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Details.cshtml",
               "RelativeToolTip": "Pages\\Cayce\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-24T18:45:50.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Cayce\\Create.cshtml",
               "ToolTip": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Create.cshtml",
               "RelativeToolTip": "Pages\\Cayce\\Create.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T18:45:19.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T18:45:19.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Cayce.css",
               "DocumentMoniker": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\Cayce.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\Cayce.css",
               "ToolTip": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\Cayce.css",
               "RelativeToolTip": "wwwroot\\css\\Cayce.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-24T18:44:48.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T18:44:48.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Cayce\\Details.cshtml.cs",
@@ -118,8 +131,7 @@
               "RelativeToolTip": "Pages\\Cayce\\Details.cshtml.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T17:51:24.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T17:51:24.753Z"
             },
             {
               "$type": "Document",
@@ -129,27 +141,25 @@
               "RelativeDocumentMoniker": "Pages\\Cayce\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Cayce\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T16:51:20.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T16:51:20.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Cayce\\Index.cshtml",
               "ToolTip": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Index.cshtml",
               "RelativeToolTip": "Pages\\Cayce\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T16:48:55.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T16:48:55.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "Models\\SeedData.cs",
@@ -161,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Cayce\\Delete.cshtml",
@@ -169,12 +179,11 @@
               "RelativeToolTip": "Pages\\Cayce\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T20:26:01.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T20:26:01.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\Pages\\Hannah\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Hannah\\Index.cshtml",
@@ -182,12 +191,11 @@
               "RelativeToolTip": "Pages\\Hannah\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T19:44:29.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T19:44:29.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PDMasterDetail",
               "DocumentMoniker": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
               "RelativeDocumentMoniker": "PDMasterDetail.csproj",

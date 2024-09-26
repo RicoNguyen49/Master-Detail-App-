@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KaLe6OIMyaNjDKXeBWRTFssfCm1PIGmjJMxxsHKKDzY=",
+  "Hash": "NBqRYqqJtb5scmCPkYlCfefa4QRpEXs5CfxBZ8IX4gQ=",
   "Source": "PDMasterDetail",
   "BasePath": "_content/PDMasterDetail",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Cayce.css"
+    },
+    {
+      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\CayceIndex.css",
+      "SourceId": "PDMasterDetail",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
+      "BasePath": "_content/PDMasterDetail",
+      "RelativePath": "css/CayceIndex.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\CayceIndex.css"
     },
     {
       "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\site.css",

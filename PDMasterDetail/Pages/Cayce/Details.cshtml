@@ -8,9 +8,9 @@
 <h1>Details</h1>
 
 <div>
-    <h4>RockClass</h4>
+    <h4>Rock</h4>
     <hr />
-    <dl class="row">
+    <dl class="row" style="background-color: seashell; padding: 1rem;">
         <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.RockClass.Name)
         </dt>
@@ -44,6 +44,6 @@
     </dl>
 </div>
 <div>
-    <a asp-page="./Edit" asp-route-id="@Model.RockClass.Id">Edit</a> |
-    <a asp-page="./Index">Back to List</a>
+    <a asp-page="./Edit" asp-route-id="@Model.RockClass.Id" style="color: white;">Edit</a> |
+    <a asp-page="./Index" style="color: white;">Back to List</a>
 </div>
