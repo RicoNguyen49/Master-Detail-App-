@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Z93eXHc+htPTmOKdA0eLYzTStJKk/fHlwUAr81ivQ/U=",
+  "Hash": "cj3539PdJWqUMmNoRuRdIHJEJj1O26Nz5YGNUET7iiE=",
   "Source": "PDMasterDetail",
   "BasePath": "_content/PDMasterDetail",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PDMasterDetail.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\Rico.css",
+      "SourceId": "PDMasterDetail",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
+      "BasePath": "_content/PDMasterDetail",
+      "RelativePath": "css/Rico.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Rico.css"
     },
     {
       "Identity": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\site.css",

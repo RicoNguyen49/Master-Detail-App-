@@ -2,17 +2,32 @@
 @model PDMasterDetail.Pages.Rico.IndexModel
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Rocks index";
 }
+<link rel="stylesheet" href="~/css/Rico.css" />
 
-<h1>Index</h1>
+<h1> Rocks Index</h1>
 
-<p>
-    <a asp-page="Create">Create New</a>
+<form class="filter-form" style="display: flex; justify-content: center; align-items: center; background-color: #e7f3fe; padding: 10px; border-radius: 5px;">
+
+    <input type="text" asp-for="SearchString" placeholder="Search by name" style="margin: 0 10px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;" />
+
+    <input type="submit" value="Filter" class="btn";pointer;" />
+
+    <select asp-for="RockType" asp-items="Model.Types" style="margin-left: 10px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+        <option value="">All</option>
+    </select>
+</form>
+
+<p style="text-align: center; margin-bottom: 20px;">
+    <a asp-page="Create" class="btn";">Create New</a>
+    <a asp-page="./Index" asp-route-sortOrder="@Model.NameSort" class="btn";">Sort By Name</a>
+    <a asp-page="./Index" asp-route-sortOrder="@Model.TypeSort" class="btn";">Sort By Type</a>
 </p>
+
 <table class="table">
     <thead>
-        <tr>
+        <tr style="background-color:deepskyblue;box-shadow:2px 2px black;">
             <th>
                 @Html.DisplayNameFor(model => model.RockClass[0].Name)
             </th>
@@ -28,7 +43,10 @@
             <th>
                 @Html.DisplayNameFor(model => model.RockClass[0].Hardness)
             </th>
-            <th></th>
+            <th>
+                @Html.DisplayNameFor(model => model.RockClass[0].Id)
+            </th>
+            <th>Actions</th>
         </tr>
     </thead>
     <tbody>
@@ -50,11 +68,15 @@
                 @Html.DisplayFor(modelItem => item.Hardness)
             </td>
             <td>
-                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+                @Html.DisplayFor(modelItem => item.Id)
             </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> 
+                    <a asp-page="./Details" asp-route-id="@item.Id">Details</a> 
+                    <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
         </tr>
+
 }
     </tbody>
 </table>

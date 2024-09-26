@@ -3,114 +3,142 @@
   "WorkspaceRootPath": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\ricon\\onedrive\\desktop\\master detail app\\master-detail-app-\\pdmasterdetail\\pages\\rico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\rico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\ricon\\onedrive\\desktop\\master detail app\\master-detail-app-\\pdmasterdetail\\pages\\rico\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\rico\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\ricon\\onedrive\\desktop\\master detail app\\master-detail-app-\\pdmasterdetail\\pages\\rico\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\rico\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\ricon\\onedrive\\desktop\\master detail app\\master-detail-app-\\pdmasterdetail\\wwwroot\\css\\rico.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:wwwroot\\css\\rico.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\ricon\\onedrive\\desktop\\master detail app\\master-detail-app-\\pdmasterdetail\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\ricon\\onedrive\\desktop\\master detail app\\master-detail-app-\\pdmasterdetail\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\ricon\\onedrive\\desktop\\master detail app\\master-detail-app-\\pdmasterdetail\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\ricon\\onedrive\\desktop\\master detail app\\master-detail-app-\\pdmasterdetail\\models\\rockclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:models\\rockclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\ricon\\onedrive\\desktop\\master detail app\\master-detail-app-\\pdmasterdetail\\pages\\hannah\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\hannah\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\ricon\\onedrive\\desktop\\master detail app\\master-detail-app-\\pdmasterdetail\\pages\\rico\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\rico\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\ricon\\onedrive\\desktop\\master detail app\\master-detail-app-\\pdmasterdetail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\ricon\\onedrive\\desktop\\master detail app\\master-detail-app-\\pdmasterdetail\\pdmasterdetail.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pdmasterdetail.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\ricon\\onedrive\\desktop\\master detail app\\master-detail-app-\\pdmasterdetail\\pages\\rico\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\rico\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Pages\\Rico\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Rico\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Pages\\Rico\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Rico\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T20:09:19.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T20:08:58.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Pages\\Rico\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Rico\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Pages\\Rico\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Rico\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T21:27:01.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "Models\\SeedData.cs",
               "ToolTip": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Models\\SeedData.cs",
               "RelativeToolTip": "Models\\SeedData.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T20:29:05.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Pages\\Hannah\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Hannah\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Pages\\Hannah\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Hannah\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T20:27:51.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T20:27:34.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T20:27:27.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T20:54:33.856Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Pages\\Rico\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Rico\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Pages\\Rico\\Create.cshtml",
-              "RelativeToolTip": "Pages\\Rico\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T20:27:22.119Z",
-              "EditorCaption": ""
+              "Title": "Rico.css",
+              "DocumentMoniker": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\Rico.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Rico.css",
+              "ToolTip": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\Rico.css",
+              "RelativeToolTip": "wwwroot\\css\\Rico.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-24T20:20:02.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PDMasterDetail",
-              "DocumentMoniker": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
-              "RelativeDocumentMoniker": "PDMasterDetail.csproj",
-              "ToolTip": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
-              "RelativeToolTip": "PDMasterDetail.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-19T17:23:32.441Z",
+              "DocumentIndex": 6,
+              "Title": "RockClass.cs",
+              "DocumentMoniker": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Models\\RockClass.cs",
+              "RelativeDocumentMoniker": "Models\\RockClass.cs",
+              "ToolTip": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Models\\RockClass.cs",
+              "RelativeToolTip": "Models\\RockClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:22:16.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Pages\\Rico\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Rico\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Pages\\Rico\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Rico\\Index.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:30:25.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Pages\\Rico\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Rico\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ricon\\OneDrive\\Desktop\\Master detail app\\Master-Detail-App-\\PDMasterDetail\\Pages\\Rico\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Rico\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T17:25:33.944Z",
               "EditorCaption": ""
             }
           ]
