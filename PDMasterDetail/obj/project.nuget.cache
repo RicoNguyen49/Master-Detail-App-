@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "q2eQsEd2a3c=",
   "success": true,
   "projectFilePath": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
+=======
+  "dgSpecHash": "VB4zbQNiQwA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
+>>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
   "expectedPackageFiles": [
     "C:\\Users\\cayce\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\cayce\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
