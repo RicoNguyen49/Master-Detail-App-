@@ -1,0 +1,44 @@
+﻿body {
+    background-color: lightslategray;
+}
+
+.btn-primary {
+    margin-top: 1rem;
+}
+
+button:hover {
+    background-color: orangered;
+}
+
+button a {
+    text-decoration: none;
+    color: darkslategray;
+}
+
+button a:hover {
+    color: white;
+}
+
+p a {
+    color: white;
+}
+
+p a:hover {
+    color: darkorange;
+}
+
+a {
+    color: gray;
+}
+
+h1 {
+    color: white;
+}
+
+.container {
+    color: white;
+}
+
+.container a {
+    color: blue;
+}
