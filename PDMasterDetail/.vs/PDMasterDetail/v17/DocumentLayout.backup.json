@@ -1,13 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hannah\\Documents\\CIT 218 (2024)\\MasterDetailAPP-Team\\Master-Detail-App-\\PDMasterDetail\\",
+  "WorkspaceRootPath": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\hannah\\documents\\cit 218 (2024)\\masterdetailapp-team\\master-detail-app-\\pdmasterdetail\\pages\\hannah\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\hannah\\documents\\cit 255 (2024)\\master detail app\\master-detail-app-\\pdmasterdetail\\pages\\hannah\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\hannah\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\hannah\\documents\\cit 255 (2024)\\master detail app\\master-detail-app-\\pdmasterdetail\\pages\\hannah\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\hannah\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\hannah\\documents\\cit 218 (2024)\\masterdetailapp-team\\master-detail-app-\\pdmasterdetail\\pdmasterdetail.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\hannah\\documents\\cit 255 (2024)\\master detail app\\master-detail-app-\\pdmasterdetail\\pages\\hannah\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\hannah\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\hannah\\documents\\cit 255 (2024)\\master detail app\\master-detail-app-\\pdmasterdetail\\pages\\cayce\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\cayce\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\hannah\\documents\\cit 255 (2024)\\master detail app\\master-detail-app-\\pdmasterdetail\\pages\\cayce\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\cayce\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\hannah\\documents\\cit 255 (2024)\\master detail app\\master-detail-app-\\pdmasterdetail\\pages\\cayce\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\cayce\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\hannah\\documents\\cit 255 (2024)\\master detail app\\master-detail-app-\\pdmasterdetail\\pages\\rico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\rico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\hannah\\documents\\cit 255 (2024)\\master detail app\\master-detail-app-\\pdmasterdetail\\pages\\rico\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pages\\rico\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|c:\\users\\hannah\\documents\\cit 255 (2024)\\master detail app\\master-detail-app-\\pdmasterdetail\\pdmasterdetail.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{1072A6F9-8093-428D-BE6B-248789B07634}|PDMasterDetail.csproj|solutionrelative:pdmasterdetail.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -18,28 +46,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Hannah\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Hannah\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Hannah\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Hannah\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T21:09:08.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Cayce\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Cayce\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:20:16.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Cayce\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Cayce\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:28:06.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hannah\\Documents\\CIT 218 (2024)\\MasterDetailAPP-Team\\Master-Detail-App-\\PDMasterDetail\\Pages\\Hannah\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Cayce\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Cayce\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Cayce\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T02:28:05.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Rico\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Rico\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Rico\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Rico\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T02:27:46.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Rico\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Rico\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Rico\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Rico\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:27:43.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Hannah\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Hannah\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Hannah\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Hannah\\Index.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:15:13.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Hannah\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Hannah\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hannah\\Documents\\CIT 218 (2024)\\MasterDetailAPP-Team\\Master-Detail-App-\\PDMasterDetail\\Pages\\Hannah\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\Pages\\Hannah\\Index.cshtml",
               "RelativeToolTip": "Pages\\Hannah\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-19T19:44:29.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "PDMasterDetail",
-              "DocumentMoniker": "C:\\Users\\Hannah\\Documents\\CIT 218 (2024)\\MasterDetailAPP-Team\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
+              "DocumentMoniker": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
               "RelativeDocumentMoniker": "PDMasterDetail.csproj",
-              "ToolTip": "C:\\Users\\Hannah\\Documents\\CIT 218 (2024)\\MasterDetailAPP-Team\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
+              "ToolTip": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
               "RelativeToolTip": "PDMasterDetail.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-09-19T17:23:32.441Z"
