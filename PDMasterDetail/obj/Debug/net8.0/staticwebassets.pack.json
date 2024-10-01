@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\imagesHannah\\Granite.jpg",
+      "PackagePath": "staticwebassets\\imagesHannah\\Granite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\imagesHannah\\Onyx.jpg",
+      "PackagePath": "staticwebassets\\imagesHannah\\Onyx.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\imagesHannah\\Quartz.jpg",
+      "PackagePath": "staticwebassets\\imagesHannah\\Quartz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\imagesHannah\\Talc.jpg",
+      "PackagePath": "staticwebassets\\imagesHannah\\Talc.jpg"
+    },
+    {
       "Id": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
