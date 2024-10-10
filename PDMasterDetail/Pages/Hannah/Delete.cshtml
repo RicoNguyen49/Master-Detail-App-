@@ -4,49 +4,51 @@
 @{
     ViewData["Title"] = "Delete";
 }
-
-<h1>Delete</h1>
-
-<h3>Are you sure you want to delete this?</h3>
-<div>
-    <h4>RockClass</h4>
-    <hr />
-    <dl class="row">
-        <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.RockClass.Name)
-        </dt>
-        <dd class="col-sm-10">
+<body style="background-color:#955E42; text-align:center;">
+    <h2 style="margin-top:5%;">-Delete-</h2>
+    <h4 style="margin-bottom:3%;">Are you sure you want to delete this?</h4>
+    
+<div style="background:#553739;float:left; margin-bottom: 10%; margin-left: 20%; margin-right:20%; width:60%;">
+        <div style="background:#232020; color:white; padding: 5px;">
+            <form method="post">
+                <input type="hidden" asp-for="RockClass.Id" />
+                <input type="submit" value=">Delete" class="btn" style="color:antiquewhite;" />
+                <a asp-page="./Index" style="color:antiquewhite;text-decoration:none;margin-left:2%;">>Back to List</a>
+            </form>
+        </div>
+        <dl>
+        <dd style="background:#232020; color: antiquewhite; font-size:1.5em; text-align:center; width: 60%; margin-top: 3%; margin-left:3%;">
             @Html.DisplayFor(model => model.RockClass.Name)
         </dd>
-        <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.RockClass.Type)
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.RockClass.Type)
+        <dd style="float:right; padding-right: 10px; margin-top:4%;">
+                <div style="float:right;margin-right:2%;">
+                    <img src="@Url.Content("~/imagesHannah/" + Model.RockClass.Name +".jpg")" style="width: 200px; height: 200px;" />
+                </div>
         </dd>
-        <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.RockClass.Color)
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.RockClass.Color)
-        </dd>
-        <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.RockClass.Location)
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.RockClass.Location)
-        </dd>
-        <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.RockClass.Hardness)
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.RockClass.Hardness)
-        </dd>
-    </dl>
-    
-    <form method="post">
-        <input type="hidden" asp-for="RockClass.Id" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-page="./Index">Back to List</a>
-    </form>
+            <dt class="col-sm-2" style="color: darksalmon; padding-left: 8px;">
+                @Html.DisplayNameFor(model => model.RockClass.Type):
+            </dt>
+            <dd class="col-sm-4" style="color:antiquewhite; padding-left: 15px;">
+                @Html.DisplayFor(model => model.RockClass.Type)
+            </dd>
+            <dt class="col-sm-2" style="color: darksalmon; padding-left: 8px;">
+                @Html.DisplayNameFor(model => model.RockClass.Color):
+            </dt>
+            <dd class="col-sm-4" style="color: antiquewhite; padding-left: 15px;">
+                @Html.DisplayFor(model => model.RockClass.Color)
+            </dd>
+            <dt class="col-sm-2" style="color: darksalmon; padding-left: 20px;">
+                @Html.DisplayNameFor(model => model.RockClass.Location):
+            </dt>
+            <dd class="col-sm-4" style="color: antiquewhite; padding-left: 25px;">
+                @Html.DisplayFor(model => model.RockClass.Location)
+            </dd>
+            <dt class="col-sm-2" style="color: darksalmon; padding-left: 20px;">
+                @Html.DisplayNameFor(model => model.RockClass.Hardness):
+            </dt>
+            <dd class="col-sm-4" style="color: antiquewhite; padding-left: 25px;">
+                @Html.DisplayFor(model => model.RockClass.Hardness)
+            </dd>
+        </dl>
 </div>
+</body>

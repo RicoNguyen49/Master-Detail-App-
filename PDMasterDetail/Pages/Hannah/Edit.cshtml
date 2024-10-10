@@ -5,50 +5,51 @@
     ViewData["Title"] = "Edit";
 }
 
-<h1>Edit</h1>
+<body style="background-color:#955E42; text-align:center;">
+    <h1 style="margin-top:5%; margin-bottom:5%;">Rock Database</h1>
 
-<h4>RockClass</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form method="post">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" asp-for="RockClass.Id" />
-            <div class="form-group">
-                <label asp-for="RockClass.Name" class="control-label"></label>
-                <input asp-for="RockClass.Name" class="form-control" />
-                <span asp-validation-for="RockClass.Name" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="RockClass.Type" class="control-label"></label>
-                <input asp-for="RockClass.Type" class="form-control" />
-                <span asp-validation-for="RockClass.Type" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="RockClass.Color" class="control-label"></label>
-                <input asp-for="RockClass.Color" class="form-control" />
-                <span asp-validation-for="RockClass.Color" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="RockClass.Location" class="control-label"></label>
-                <input asp-for="RockClass.Location" class="form-control" />
-                <span asp-validation-for="RockClass.Location" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="RockClass.Hardness" class="control-label"></label>
-                <input asp-for="RockClass.Hardness" class="form-control" />
-                <span asp-validation-for="RockClass.Hardness" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
-            </div>
-        </form>
+    <div>
+        <div style="background:#553739;width: 60%;margin-left:20%;margin-right:20%;margin-bottom:5%;">
+           
+            <form method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="RockClass.Id" /> 
+                @*submit or cancel buttons*@
+                <div class="form-group" style="text-align:center;background-color:#232020;padding:5px;">
+                    <input type="submit" value=">Save" class="btn" style="color:antiquewhite;margin-right:5%;" />
+                    <a asp-page="Index" class="btn" style="color:antiquewhite;">>Cancel</a>
+                </div>
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group" style=" margin-bottom: 3%; margin-left:10%; margin-right:10%; margin-bottom:10%; padding-bottom:20px;">
+                    <p style="text-align:center; font-size: 1.5em; margin-top:4%;color:antiquewhite;">Edit rock data:</p>
+
+                    @*Name*@
+                    <label asp-for="RockClass.Name" class="control-label" style="color:antiquewhite; padding-bottom:2px;"></label>
+                    <input asp-for="RockClass.Name" class="form-control" />
+                    <span asp-validation-for="RockClass.Name" class="text-danger"></span>
+                    @*Type*@
+                    <label asp-for="RockClass.Type" class="control-label" style="color:antiquewhite; padding-bottom:2px;"></label>
+                    <input asp-for="RockClass.Type" class="form-control" />
+                    <span asp-validation-for="RockClass.Type" class="text-danger"></span>
+                    @*Location*@
+                    <label asp-for="RockClass.Location" class="control-label" style="color:antiquewhite; padding-bottom:2px;"></label>
+                    <input asp-for="RockClass.Location" class="form-control" />
+                    <span asp-validation-for="RockClass.Location" class="text-danger"></span>
+                    @*Color*@
+                    <label asp-for="RockClass.Color" class="control-label" style="color:antiquewhite; padding-bottom:2px;"></label>
+                    <input asp-for="RockClass.Color" class="form-control" />
+                    <span asp-validation-for="RockClass.Color" class="text-danger"></span>
+                    @*Hardness*@
+                    <label asp-for="RockClass.Hardness" class="control-label" style="color:antiquewhite; padding-bottom:2px;"></label>
+                    <input asp-for="RockClass.Hardness" class="form-control" />
+                    <span asp-validation-for="RockClass.Hardness" class="text-danger"></span>
+
+                </div>
+            </form>
+        </div>
     </div>
-</div>
-
-<div>
-    <a asp-page="./Index">Back to List</a>
-</div>
+</body>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
