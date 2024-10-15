@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "NBqRYqqJtb5scmCPkYlCfefa4QRpEXs5CfxBZ8IX4gQ=",
-=======
-  "Hash": "9iBRYc9qC901Qv9qqCZfyJp4WmqtKnhviIDYEJdgXNo=",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+  "Hash": "EzDrdVcOdGB2rKKHLhqIfIQo0vCBEf89zJti1uXeJSw=",
   "Source": "PDMasterDetail",
   "BasePath": "_content/PDMasterDetail",
   "Mode": "Default",
@@ -14,28 +10,17 @@
     {
       "Name": "PDMasterDetail\\wwwroot",
       "Source": "PDMasterDetail",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PDMasterDetail.styles.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PDMasterDetail.styles.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PDMasterDetail.styles.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "PDMasterDetail.styles.css",
       "AssetKind": "All",
@@ -48,23 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PDMasterDetail.styles.css"
+      "OriginalItemSpec": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PDMasterDetail.styles.css"
     },
     {
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PDMasterDetail.bundle.scp.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PDMasterDetail.bundle.scp.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-=======
-      "OriginalItemSpec": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PDMasterDetail.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PDMasterDetail.bundle.scp.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "PDMasterDetail.bundle.scp.css",
       "AssetKind": "All",
@@ -77,14 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PDMasterDetail.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PDMasterDetail.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\Cayce.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\Cayce.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "css/Cayce.css",
       "AssetKind": "All",
@@ -100,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Cayce.css"
     },
     {
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\CayceIndex.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\CayceIndex.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "css/CayceIndex.css",
       "AssetKind": "All",
@@ -119,19 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\CayceIndex.css"
     },
     {
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\site.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "OriginalItemSpec": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PDMasterDetail.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\css\\site.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -147,17 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\favicon.ico",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\favicon.ico",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -173,17 +131,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\js\\site.js",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\js\\site.js",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -199,17 +150,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -225,17 +169,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -251,17 +188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -277,17 +207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -303,17 +226,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -329,17 +245,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -355,17 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -381,17 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -407,17 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -433,17 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -459,17 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -485,17 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -511,17 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -537,17 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -563,17 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -589,17 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -615,17 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -641,17 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -667,17 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -693,17 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -719,17 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -745,17 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -771,17 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -797,17 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -823,17 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -849,17 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -875,17 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -901,17 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -927,17 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -953,17 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -979,17 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1005,17 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1031,17 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1057,17 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1083,17 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1109,17 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1135,17 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1161,17 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1187,17 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1213,17 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1239,17 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1265,17 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1291,17 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1317,17 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1343,17 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1369,17 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1395,17 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1421,17 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1447,17 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1473,17 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1499,17 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1525,17 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1551,17 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1577,17 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1603,17 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1629,17 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1655,17 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "PDMasterDetail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "PDMasterDetail",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "ContentRoot": "C:\\Users\\cayce\\Desktop\\Master-Detail-App-\\PDMasterDetail\\wwwroot\\",
       "BasePath": "_content/PDMasterDetail",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

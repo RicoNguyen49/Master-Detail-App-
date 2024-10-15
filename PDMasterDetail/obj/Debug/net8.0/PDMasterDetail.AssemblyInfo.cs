@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PDMasterDetail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39cc6db8ca5ee9e6a7140a5fba2cf35ebe4d18c3")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+753013d390787890ea059b38a12632eabcfab1d4")]
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06f14058c210ae9c5eacbfe5746f7319d11fd275")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDMasterDetail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDMasterDetail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
