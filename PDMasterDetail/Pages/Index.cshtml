@@ -1,10 +1,57 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Rock Galore Database";
 }
-
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<link rel="stylesheet" href="~/css/Rico.css" />
+<div class="main-container" >
+    <div class="overlay">
+        <div class="content text-center">
+            <h1 class="display-4">Welcome to Rock Galore</h1>
+            <p>Your ultimate resource for exploring rock collections and geological wonders.</p>
+            <p>Browse through our extensive database to learn about different types of rocks, their origins, and unique characteristics.</p>
+        </div>
+    </div>
 </div>
+
+<style>
+    
+    .main-container {
+        background-image: url('/images/MainBG.jpg');
+        background-size: cover;
+        background-position: center;
+        height: 65vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+    }
+
+    .overlay {
+        background: rgba(0, 0, 0, 0.6); 
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+    }
+
+    .content {
+        color: #fff;
+        max-width: 800px;
+        text-align: center;
+    }
+
+    .display-4 {
+        font-size: 3.5rem;
+        font-weight: bold;
+        margin-bottom: 20px;
+        color:white;
+    }
+
+
+</style>

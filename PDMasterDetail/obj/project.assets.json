@@ -7717,31 +7717,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cayce\\.nuget\\packages\\": {},
+    "C:\\Users\\ricon\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
+      "projectUniqueName": "C:\\Users\\ricon\\OneDrive\\Desktop\\MasterDetailsApp\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
       "projectName": "PDMasterDetail",
-      "projectPath": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
-      "packagesPath": "C:\\Users\\cayce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cayce\\Desktop\\Team_Project\\Master-Detail-App-\\PDMasterDetail\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
-      "projectName": "PDMasterDetail",
-      "projectPath": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
-      "packagesPath": "C:\\Users\\Hannah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hannah\\Documents\\CIT 255 (2024)\\Master Detail App\\Master-Detail-App-\\PDMasterDetail\\obj\\",
->>>>>>> 8c6809dac4ed0a46b16a686a00fb64063522266f
+      "projectPath": "C:\\Users\\ricon\\OneDrive\\Desktop\\MasterDetailsApp\\Master-Detail-App-\\PDMasterDetail\\PDMasterDetail.csproj",
+      "packagesPath": "C:\\Users\\ricon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ricon\\OneDrive\\Desktop\\MasterDetailsApp\\Master-Detail-App-\\PDMasterDetail\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\cayce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ricon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7808,7 +7800,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

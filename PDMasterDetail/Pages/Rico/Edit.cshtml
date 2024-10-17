@@ -4,14 +4,13 @@
 @{
     ViewData["Title"] = "Edit";
 }
-
+<link rel="stylesheet" href="~/css/Rico.css" />
 <h1>Edit</h1>
 
-<h4>RockClass</h4>
 <hr />
-<div class="row">
-    <div class="col-md-4">
-        <form method="post">
+<div class="container">
+    <div class="col-md-8 offset-md-2">
+        <form method="post" >
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="RockClass.Id" />
             <div class="form-group">
@@ -39,17 +38,14 @@
                 <input asp-for="RockClass.Hardness" class="form-control" />
                 <span asp-validation-for="RockClass.Hardness" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+            <br />
+            <div class="text-center">
+                <input type="submit" value="Save" class="btn btn-primary" />|
+                <a asp-page="Index" class="btn btn-secondary">Back to List</a>
             </div>
         </form>
     </div>
 </div>
-
-<div>
-    <a asp-page="./Index">Back to List</a>
-</div>
-
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }
