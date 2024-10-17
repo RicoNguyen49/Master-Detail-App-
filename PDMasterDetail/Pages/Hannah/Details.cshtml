@@ -13,39 +13,40 @@
             <a asp-page="./Index" style="color:white; text-decoration:none; margin-left:3%;">>Back to Main Page</a>
         </div>
         <dl>
-            <dd style="background:#232020; color: antiquewhite; font-size:1.5em; text-align:center; width: 60%; margin-top: 3%; margin-left:3%;">
-                @Html.DisplayFor(model => model.RockClass.Name)
-            </dd> 
-            <dd style="float:right; padding-right: 10px; margin-top:4%;">
-                <div style="float:right;">
-                    <img src="@Url.Content("~/imagesHannah/" + Model.RockClass.Name +".jpg")" style="width: 200px; height: 200px;" />
-                </div>
-            </dd>
-
-            <dt class="col-sm-2" style="color: darksalmon; padding-left: 8px;">
-                @Html.DisplayNameFor(model => model.RockClass.Type):
-            </dt>
-            <dd class="col-sm-4" style="color:antiquewhite; padding-left: 15px;">
-                @Html.DisplayFor(model => model.RockClass.Type)
-            </dd>
-            <dt class="col-sm-2" style="color: darksalmon; padding-left: 8px;">
-                @Html.DisplayNameFor(model => model.RockClass.Color):
-            </dt>
-            <dd class="col-sm-4" style="color: antiquewhite; padding-left: 15px;">
-                @Html.DisplayFor(model => model.RockClass.Color)
-            </dd>
-            <dt class="col-sm-2" style="color: darksalmon; padding-left: 20px;">
-                @Html.DisplayNameFor(model => model.RockClass.Location):
-            </dt>
-            <dd class="col-sm-4" style="color: antiquewhite; padding-left: 25px;">
-                @Html.DisplayFor(model => model.RockClass.Location)
-            </dd>
-            <dt class="col-sm-2" style="color: darksalmon; padding-left: 20px;">
-                @Html.DisplayNameFor(model => model.RockClass.Hardness):
-            </dt>
-            <dd class="col-sm-4" style="color: antiquewhite; padding-left: 25px;">
-                @Html.DisplayFor(model => model.RockClass.Hardness)
-            </dd>
+            <div style="float:left; margin-left: 8%; padding-top: 15px;">
+                <dt style="color: darksalmon; padding-left: 8px;">
+                    @Html.DisplayNameFor(model => model.RockClass.Name):
+                </dt>
+                <dt style="color: darksalmon; padding-left: 8px;padding-top:10px;">
+                    @Html.DisplayNameFor(model => model.RockClass.Type):
+                </dt>
+                <dt style="color: darksalmon; padding-left: 8px;padding-top:8px;">
+                    @Html.DisplayNameFor(model => model.RockClass.Color):
+                </dt>
+                <dt style="color: darksalmon; padding-left: 20px;padding-top:6px;">
+                    @Html.DisplayNameFor(model => model.RockClass.Location):
+                </dt>
+                <dt style="color: darksalmon; padding-left: 20px;padding-top:5px;">
+                    @Html.DisplayNameFor(model => model.RockClass.Hardness):
+                </dt>
+            </div>
+            <div style="float:right;margin-right: 8%; padding-top: 15px;">
+                <dd style="color:antiquewhite; padding-left: 15px;">
+                    @Html.DisplayFor(model => model.RockClass.Name)
+                </dd>
+                <dd style="color:antiquewhite; padding-left: 15px;">
+                    @Html.DisplayFor(model => model.RockClass.Type)
+                </dd>
+                <dd style="color: antiquewhite; padding-left: 15px;">
+                    @Html.DisplayFor(model => model.RockClass.Color)
+                </dd>
+                <dd style="color: antiquewhite; padding-left: 25px;">
+                    @Html.DisplayFor(model => model.RockClass.Location)
+                </dd>
+                <dd style="color: antiquewhite; padding-left: 25px;">
+                    @Html.DisplayFor(model => model.RockClass.Hardness)
+                </dd>
+            </div>
         </dl>
 </div>
 </body>

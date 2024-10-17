@@ -9,7 +9,7 @@
     <h1 style="margin-top:10%; margin-bottom:5%;">Rock Database</h1>
 
 <div class="row">
-        <div style="background:#553739;width: 80%;margin-left:10%;">
+        <div style="background:#553739;width: 60%;margin-left:20%; margin-right:20%;">
             @*submit or cancel buttons*@
             <form method="post">
                     <div class="form-group" style="text-align:center;background-color:#232020;padding:10px;margin-top:2%;">
@@ -19,7 +19,7 @@
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
                         @*left float input*@
-                        <div class="form-group" style="float:left; margin-bottom: 3%; margin-left:20%; margin-bottom:4%">
+                <div class="form-group" style="text-align:center; margin-bottom: 3%; margin-left:10%; margin-right:10%; margin-bottom:4%">
                             <p style="text-align:center; font-size: 1.5em; margin-top:4%;color:antiquewhite;">Enter rock data:</p>
                             
                                 @*Name*@
@@ -44,9 +44,6 @@
                                 <span asp-validation-for="RockClass.Hardness" class="text-danger"></span>
                                 
                         </div>  
-
-                        @*right float input*@
-
             </form>
     </div>
 </div>
